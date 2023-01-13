@@ -1,0 +1,31 @@
+.first{
+    width: 250px;
+    height: 290px;
+}
+body{
+    text-align: center;
+}
+button{
+    border-width: 1px;
+    border-color: black;
+}
+.second{
+    width: 250px;
+    height: 290px;
+    background-color: gainsboro
+}
+.one{
+    background-color: burlywood;
+}
+.two{
+    background-color: grey
+}
+.three{
+    background-color: black;
+}
+.four{
+    background-color: grey;
+}
+.five{
+    background-color: gainsboro;
+}
